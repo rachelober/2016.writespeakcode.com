@@ -1,0 +1,21 @@
+%ul.people_list
+  - @speakers.each do |speaker|
+    %li.person
+      %a{ id: speaker.slug }
+
+      .info
+        - if speaker.image
+          = image_tag "speaker-headshots/#{speaker.image}", alt: speaker.name
+
+        %ul.social
+          - ([speaker.twitter, speaker.linkedin, speaker.website].flatten).each do |type, url|
+            %li
+              %a{ href: url, target: '_blank' }
+                %span.fa{ class: "fa-#{type}" }
+
+      .talk
+        %span.name= speaker.name
+
+      - if speaker.bio
+        %p.bio
+          = speaker.bio

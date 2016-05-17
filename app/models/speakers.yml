@@ -1,0 +1,330 @@
+---
+- keynote: 'TRUE'
+  slug: alex_qin
+  name: Alex Qin
+  pronoun: She/her
+  email: a@alexq.in
+  twitter: alexqin
+  website: http://alexq.in
+  linkedin: http://linkedin.com/in/alexandraqin
+  title: Engineer
+  company: Skillshare
+  bio: 'Alex Qin is a Brooklyn based engineer and educator. She spends a lot of time
+    thinking about how to make programming accessible to all. During work hours, she
+    writes code at Skillshare. In her spare time, she enjoys  teaching children and
+    adults to code with ScriptEd, Women Who Code, and Technovation, and giving talks
+    about code, community, and accessibility. '
+  image: alex-qin-headshot.jpg
+  id: -1065926559500978382
+- keynote: 'TRUE'
+  slug: annyce_davis
+  name: Annyce Davis
+  pronoun: She
+  email: annyce.davis@gmail.com
+  twitter: brwngrldev
+  website: http://www.adavis.info
+  linkedin: https://www.linkedin.com/in/annycedavis
+  title: Lead Android Developer
+  company: Off Grid Electric
+  bio: Annyce is an Android Google Developer Expert. She has spent the past 5 years
+    developing applications for the Android ecosystem across multiple form factors.
+    She is also a national conference speaker and author, sharing her knowledge of
+    Android development with others.
+  image: annyce-davis-headshot.jpg
+  id: -3979666336233682197
+- keynote: 'FALSE'
+  slug: lauren_scott
+  name: Lauren Scott
+  pronoun: she/her/hers
+  email: wisconsinpoet@gmail.com
+  twitter: devdame
+  website: http://www.devdame.com
+  linkedin: http://linkedin.com/in/devdame
+  title: Software Engineer
+  company: Braintree
+  bio: Lauren is a level 18 computer mage at Brad's Deals, poet-grammer, community
+    organizer, and advocate for women and other underrepresented groups in technology.  She
+    keeps engaged by Co-Leading RailsBridge Chicago, serving as a RailsBridge Advisory
+    Board member, teaching programming classes with Girl Develop It, and mentoring
+    students and alumni at Dev Bootcamp.  Lauren spends her spare time killing evil
+    gods at the D&D table, teaching herself the ukulele, speaking out for intersectional
+    feminism, crafting cosplay and miniatures, and perpetually getting songs from
+    Buffy stuck in her head.
+  image: lauren-scott.jpg
+  id: 3809442811240973440
+- keynote: 'FALSE'
+  slug: katherine_wu
+  name: Katherine Wu
+  pronoun: she/her
+  email: kwugirl@gmail.com
+  twitter: kwugirl
+  website: kwugirl.com
+  linkedin: https://www.linkedin.com/in/kwugirl
+  title: Software Engineer
+  company: New Relic
+  bio: KWu is a Ruby Agent software engineer at New Relic. Prior to New Relic, she
+    attended Hackbright Academy and had worked at Google for 5 years in various technical
+    support and product operations roles. A proud New Jersey native, she nevertheless
+    fits in well in Portlandia, what with biking to work and spending weekends canning
+    and preserving the fruits and veggies from a local farm share.
+  image: kwu-800.jpeg
+  id: -4170049306310040504
+- keynote: 'FALSE'
+  slug: heidi_waterhouse
+  name: Heidi Waterhouse
+  pronoun: She/her
+  email: h.waterhouse@gmail.com
+  twitter: wiredferret
+  website: heidiwaterhouse.com
+  linkedin: https://www.linkedin.com/in/heidiwaterhouse
+  title: Documentation Mercenary
+  company: Waterhouse Consulting
+  bio: Heidi is a widely experienced technical writer with an interest in writing
+    herself out of work. She specializes in creating entire documentation suites for
+    new companies and products in less time than you would believe possible. She speaks
+    on topics like search-led writing, starting new documentation products, and whistleblowing
+    as a technical writer.
+  image: heidi.jpeg
+  id: -3552351830683915738
+- keynote: 'FALSE'
+  slug: julianna_rusakiewicz
+  name: Julianna Rusakiewicz
+  pronoun: She/Her
+  email: Juliannarusak@gmail.com
+  twitter: juliannarusak
+  website: juliannarusak.com
+  linkedin: linkedin.com/in/juliannarusak
+  title: Developer & Digital Producer
+  company: Catch New York
+  bio: Actor turned designer turned developer, I am a bootcamp graduate trying to
+    make my way in an ever-changing and growing field. I grew up in New England and
+    became an adult in New York City, so I yearn for the city and the woods. I primarily
+    develop in Ruby on Rails and AngualrJS, though I am often asked to update Wordpress
+    sites. After 15 years in the Theater scene, I accepted a position at a creative
+    agency in Midtown Manhattan. I am constantly learning and trying new things!
+  image: julianna-rusakiewicz-headshot.jpg
+  id: -3879422953869757796
+- keynote: 'FALSE'
+  slug: neha_batra
+  name: Neha Batra
+  pronoun: she/her
+  email: nehalita@gmail.com
+  twitter: nerdneha
+  website: nerdneha.tumblr.com
+  linkedin: linkedin.com/in/nbatra
+  title: Software Engineer
+  company: Pivotal Labs
+  bio: 'Neha Batra is a software engineer at Pivotal Labs who, 3.5 years ago, was
+    an energy consultant and quit to teach herself programming because “it was time.”
+    She holds a bachelor’s in Mechanical Engineering from MIT and enjoys food, planning
+    trips (and has slightly insane spreadsheets for her trips), and pronouncing GIFs
+    how it should be: jiffs.'
+  image: neha.jpeg
+  id: -195630806847307224
+- keynote: 'FALSE'
+  slug: iris_amelia_febres
+  name: Iris Amelia Febres
+  pronoun: She
+  email: iris.febres@gmail.com
+  twitter: epubpupil
+  website: www.irisamelia.com
+  linkedin: http://www.linkedin.com/in/irisamelia
+  title: President
+  company: Bookbuilders of Boston
+  bio: Iris is a digital experience designer with 5+ years experience in publishing.
+    She loves coding and corgis.
+  image: iris-photo.jpg
+  id: -4338654449909849797
+- keynote: 'FALSE'
+  slug: liz_rush
+  name: Liz Rush
+  pronoun: She/her
+  email: liz@lizmrush.com
+  twitter: lizmrush
+  website: lizmrush.com
+  linkedin: https://www.linkedin.com/in/lizrush
+  title: Developer Evangelist & Software Engineer
+  company: Algorithmia
+  bio: Liz Rush loves talking tech & teaching code--as the Developer Evangelist for
+    Algorithmia in Seattle, she gets to share that passion professionally. Liz has
+    worked on development teams large and small to build web apps, experimental services,
+    and complex data platforms. She is a graduate of Ada Developers Academy's inaugural
+    cohort and remains active as an alumna mentor. When she's not blogging or coding,
+    she can be found volunteering or out at live music & techno shows.
+  image: liz-rush.jpeg
+  id: 785637751467708843
+- keynote: 'FALSE'
+  slug: julia_ovchinnikova
+  name: Julia Ovchinnikova
+  pronoun: She
+  email: jovchinnikova@gmail.com
+  twitter: JOvchinnikova
+  website: findcompanydna.com - hope to open it soon
+  linkedin: www.linkedin.com/in/yovchinnikova
+  title: Founder
+  company: "<CompanyDNA Discovery>"
+  bio: Yulia is a tech entrepreneur and business coach with 20+ years marketing and
+    business development experience in Technology, Internet and Media sectors. She
+    currently balances consulting with early-stage technology development for mobile
+    and web domains. Her current interests combine business coaching and strategy
+    hacking with hands on technology. Previous experience includes marketing and social
+    impact programs at ccTLD.RU, leading Russian Open Source Foundation, Knowledge
+    Management Consulting for KPMG, Web Development and journalism.
+  image: yulia-ovchinnikova.jpg
+  id: 2476108552998761488
+- keynote: 'TRUE'
+  slug: fureigh
+  name: Fureigh
+  pronoun: they/their/them
+  email: info@fureigh.com
+  twitter: fureigh
+  website: fureigh.com
+  linkedin: linkedin.com/in/fureigh
+  title: Innovation Specialist
+  company: 18F
+  bio: Fureigh is a software engineer who believes technology should be kind to humans
+    and so should the state. After their 2014 Code for America fellowship reducing
+    repeat 911 calls in Long Beach, Calif., they joined 18F, a digital strategy shop
+    transforming the federal government from the inside out. Fureigh started New York
+    City's Drupal Ladder skill-building meetups, has taught United Nations employees
+    how to use Git, and has spoken at conferences ranging from Open Source Bridge
+    to Creating Change.
+  image: fureigh-headshot.jpg
+  id: 876706279589238307
+- keynote: 'FALSE'
+  slug: cora_hays-magan
+  name: Cora Hays-Magan
+  pronoun: she/her/hers
+  email: chaysmagan@gmail.com
+  twitter: corainchicago
+  website: corainchicago.github.io
+  linkedin: corainchicago
+  title: Apprentice Developer
+  company: Me
+  bio: An enthusiastic coder, I love the problem solving and logic in coding, along
+    with pairing and the thrill of testing. My core knowledge base is in Javascript,
+    Ruby, and Rails (with the required HTML/CSS and SASS to go with it). I'm also
+    curious about Go and DevOps.
+  image: cora.jpg
+  id: 2477596302202348999
+- keynote: 'FALSE'
+  slug: tripta_gupta
+  name: Tripta Gupta
+  pronoun: She
+  email: gupta.tripta@gmail.com
+  twitter: triptagupta
+  website: https://github.com/neurosaurus
+  linkedin: https://www.linkedin.com/in/tripta-gupta-490b02106
+  title: iOS Developer
+  company: Capital One
+  bio: I like to be at the intersection of technology, business, and creativity. I
+    am an iOS developer and passionate about running half-marathons, supporting diversity
+    in the workplace, and storytelling as a medium to create resonance with people.
+  image: 
+  id: -2052818886208249128
+- keynote: 'FALSE'
+  slug: liz_abinante
+  name: Liz Abinante
+  pronoun: she/her
+  email: me@liz.codes
+  twitter: feministy
+  website: http://feminist.party
+  linkedin: https://linkedin.com/in/lizabinante
+  title: Senior Software Engineer
+  company: New Relic
+  bio: Liz Abinante lives in Portland, Oregon and works as a Senior Software Engineer
+    at New Relic. She is infectiously enthusiastic about web development, teaching,
+    learning, and feminism. She enjoys speaking at conferences, knitting, sewing,
+    and a hacking away on interesting problems. Her greatest dream in life is to spend
+    her entire day surrounded by puppies while coding. She swears she's a lot more
+    interesting than this bio makes her sound. She's often been compared to cartoon
+    characters due to her enomorous personality and penchant for sing/dancing her
+    way through life.
+  image: liz-abinante.jpg
+  id: 40317936969459631
+- keynote: 'FALSE'
+  slug: allison_mcmillan
+  name: Allison McMillan
+  pronoun: she, her
+  email: allison.p.mcmillan@gmail.com
+  twitter: allie_p
+  website: http://allisonsherenmcmillan.blogspot.com/
+  linkedin: https://www.linkedin.com/in/apmcmillan
+  title: Engineer
+  company: General Assembly
+  bio: Allison McMillan is an engineer at General Assemb.ly. She started developing
+    at a Rails Girls workshop and is now a chapter organizer. Allison was previously
+    a startup founder, a community builder at the University of Michigan, and Managing
+    Director at the Israel on Campus Coalition. She is also a new(ish) mom. Allison
+    lives in the Washington, DC area.
+  image: https://pbs.twimg.com/profile_images/578365116476870656/mhpw8lKg.jpeg
+  id: -3006469896025205720
+- keynote: 'FALSE'
+  slug: marylou_lenhart
+  name: Marylou Lenhart
+  pronoun: her/she
+  email: marylou.lenhart@gmail.com
+  twitter: maryloulenhart
+  website: http://maryloulenhart.com
+  linkedin: n/a
+  title: Software Design Engineer
+  company: MAYA Design
+  bio: Marylou has been a software engineer for over five years, and also enjoys being
+    a Chapter Leader for Girl Develop It Pittsburgh, and a certified, insured yoga
+    instructor. She's passionate about solving problems in the community, including
+    those related to diversity and inclusivity. Hobbies that she has not turned into
+    a job yet include playing video games and board games, coloring, reading, and
+    dancing.
+  image: marylou.jpg
+  id: 2986863914966503717
+- keynote: 'FALSE'
+  slug: catherine_dugan,_lauren_fitzgerald,_and_dannielle_rosario
+  name: Catherine Dugan, Lauren Fitzgerald, and Dannielle Rosario
+  pronoun: She/her for all of us
+  email: cdugan@thoughtworks.com
+  twitter: dugan26
+  website: N/A
+  linkedin: https://www.linkedin.com/in/catherine-dugan-a437b147?trk=hp-identity-name
+  title: Quality Analyst, Developers (Lauren and Dee)
+  company: ThoughtWorks
+  bio: Catherine joined ThoughtWorks in the summer of 2015 after graduating with a
+    Math degree from Pomona College. She identifies as mixed race and has experience
+    facilitating discussions and workshops using a racial justice lens. She accidentally
+    fell into software development and is particularly interested in the social implications
+    of data security, test driven development and the inclusive potential of agile
+    software development.
+  image: catherine.jpg
+  id: 3214789924128598472
+- keynote: 'FALSE'
+  slug: ashely_powell
+  name: Ashely Powell
+  pronoun: 
+  email: 
+  twitter: AshleyPQPQP
+  website: http://www.bendyworks.com
+  linkedin: https://www.linkedin.com/in/ashleyquinto
+  title: Business Development Manager
+  company: Bendyworks
+  bio: Ashley has been in technical consulting sales for 10 years, and is the Business
+    Development Manager for Bendyworks in Madison, WI. When not at Bendyworks, she
+    be found at home- painting, crafting, cooking and toddler-wrangling.
+  image: ashley-powell-headshot.jpg
+  id: 3598722414687592365
+- keynote: 'TRUE'
+  slug: julianna_rusakiewicz
+  name: Julianna Rusakiewicz
+  pronoun: She/Her
+  email: Juliannarusak@gmail.com
+  twitter: juliannarusak
+  website: juliannarusak.com
+  linkedin: linkedin.com/in/juliannarusak
+  title: Developer & Digital Producer
+  company: Catch New York
+  bio: Actor turned designer turned developer, I am a bootcamp graduate trying to
+    make my way in an ever-changing and growing field. I grew up in New England and
+    became an adult in New York City, so I yearn for the city and the woods. I primarily
+    develop in Ruby on Rails and AngualrJS, though I am often asked to update Wordpress
+    sites. After 15 years in the Theater scene, I accepted a position at a creative
+    agency in Midtown Manhattan. I am constantly learning and trying new things!
+  image: julianna-rusakiewicz-headshot.jpg
+  id: -3879422953869757796
